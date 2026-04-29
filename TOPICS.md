@@ -2,6 +2,65 @@
 
 这个页面用于按主题回看日报，而不是只按日期查找。
 
+## 标签使用规则
+
+从现在开始，每篇日报建议在开头加入 `标签` 小节，控制在 `2-4` 个标签，优先使用下面这套固定标签。
+
+推荐格式：
+
+`标签：#HarnessEngineering #ClaudeCode #Cursor #MCP`
+
+原则：
+
+- 优先打“最能代表今天内容”的标签，不追求全
+- 同时覆盖“议题标签”和“产品/生态标签”
+- 若当天出现新议题，先尽量映射到已有标签；确实不适合再新增
+
+## 标签字典
+
+### 核心议题标签
+
+- `#PromptEngineering`
+- `#ContextEngineering`
+- `#HarnessEngineering`
+- `#AgentMemory`
+- `#SessionContinuity`
+- `#ContextCompression`
+- `#ToolUse`
+- `#Skills`
+- `#MultiAgent`
+- `#AgentEvals`
+- `#AgentSafety`
+- `#HostedRuntime`
+- `#RemoteRuntime`
+- `#CodingAgents`
+- `#ResearchAgents`
+- `#PersonalAssistants`
+- `#MCP`
+
+### 产品与生态标签
+
+- `#ClaudeCode`
+- `#Cursor`
+- `#OpenAI`
+- `#Anthropic`
+- `#Hermes`
+- `#OpenClaw`
+- `#LangGraph`
+- `#MicrosoftAgentFramework`
+- `#CrewAI`
+
+### 来源标签（可选）
+
+- `#TheRundownAI`
+- `#TLDRAI`
+- `#TheNeuron`
+- `#OneUsefulThing`
+- `#BensBites`
+- `#LatentSpace`
+- `#Interconnects`
+- `#AIValley`
+
 ## 一、产品与生态
 
 - Claude Code

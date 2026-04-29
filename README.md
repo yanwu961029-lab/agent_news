@@ -12,6 +12,7 @@
 
 - 每篇日报文件名使用 `YYYY-MM-DD.md`
 - 每篇日报标题使用 `# Agent 日报 | YYYY-MM-DD`
+- 每篇日报建议在开头增加 `标签` 小节，使用 `#HarnessEngineering` 这类固定标签
 
 默认重点关注的信息源：
 
